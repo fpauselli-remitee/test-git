@@ -1,5 +1,5 @@
-
-              (master) 
-A ---> B ---> C
-        \ git checkout B
-         (HEAD)
+(Primer commit) -> Genere README
+|
+|\ (Segundo commit) -> Generé Otro archivo (MASTER)
+ \ (Tercer Commit) -> Genereré a partir de primer commit visualización
+  \ Mergee con master (ReDME, otro archivo, visualizacion) 
