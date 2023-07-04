@@ -5,3 +5,6 @@ Tabla de contenidos
 - Init
 - add
 - commit
+- log
+- diff
+- restore
