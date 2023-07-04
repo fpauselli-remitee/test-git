@@ -8,3 +8,5 @@ Tabla de contenidos
 - log
 - diff
 - restore
+- checkout
+- merge
