@@ -2,7 +2,7 @@
 
 Tabla de contenidos
 
-- Init
+- init
 - add
 - commit
 - log
