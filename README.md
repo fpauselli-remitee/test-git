@@ -11,3 +11,4 @@ Tabla de contenidos
 - checkout
 - merge
 - algo nuevo
+- Editando desde github
