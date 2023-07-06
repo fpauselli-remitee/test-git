@@ -12,3 +12,5 @@ Tabla de contenidos
 - merge
 - algo nuevo
 - Editando desde github
+- Varios remotes
+- Pull requests
